@@ -123,6 +123,10 @@ The simulation models three entities:
 ## Objective Formulation (Summary)
 
 ### Makespan
+Maximum execution time across all VMs
+
+---
+
 ### Energy
 
 Host power increases non-linearly with utilization.
