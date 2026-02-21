@@ -178,6 +178,6 @@ Used to evaluate behavior under changing resource availability.
 
 ### Install Dependencies
 ```bash
-pip install requirements.txt
+pip install numpy matplotlib pandas openpyxl scipy
 
 python run_.py
